@@ -1,0 +1,6 @@
+body {
+    padding: 50px;
+    background-color: light slate grey;
+    background-clip: padding-box, content-box;
+    font-family: Oswald;
+}
